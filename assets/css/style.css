@@ -128,7 +128,9 @@ header nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Our Services Elements END */
 
+/* Footer Properties BEGIN */
 footer {
     padding: 30px;
     clear: both;
@@ -139,3 +141,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* Footer Properties END */
